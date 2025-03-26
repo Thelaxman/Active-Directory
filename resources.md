@@ -84,6 +84,4 @@
   Link: [Active Directory For Dummies](https://www.amazon.com/Active-Directory-Dummies-Kenneth/dp/1119644377)  
   A beginner-friendly guide to understanding and managing Active Directory.
 
-## Conclusion
 
-The resources listed above provide a solid foundation for understanding and troubleshooting Active Directory and AWS IAM integration. Whether you prefer reading official documentation, following tutorials, or using community forums, these resources will help you gain a deeper understanding and troubleshoot any issues you might face in your project.
